@@ -5,6 +5,6 @@
 <h2> This is new code </h2>
 <h2> This is devops course created by mohit sharma </h2>
 <h2> peehu sharma is my daughtar </h2>
-<h5> My Father Name is rajesh kumar sharma </h5>
-<h6> My Mother name is saroj sharma </h6>
+<h2> My Father Name is rajesh kumar sharma </h2>
+<h2> My Mother name is saroj sharma </h2>
 <h2> Glad to see you here </h2>
